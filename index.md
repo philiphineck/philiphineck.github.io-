@@ -15,3 +15,8 @@ OUK: MSC Cybersecurity and Digital Forensics (On).
 CISCO Networking Academy: CCNA 1, 2 & 3 (On)    
 CyberShujaa - Cloud and Network Security (On)                         
 Moi University, Kenya: B.Sc. Information Sciences
+## CERTIFICATIONS
+
+## EXPERIENCES
+
+## CSR

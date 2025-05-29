@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ms Philipine Koima
+title: Ms. Philipine Koima
 email:koimaphilipine@gmail.com
 description: >- # Information Scientist, BSc | Computer Network| Cybersecurity | WordPress | Data Entry | Researcher & Writer.
 twitter_username: @koima254

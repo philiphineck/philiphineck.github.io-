@@ -5,9 +5,9 @@
 layout: home
 author_profile: true
 ---
-CURRICULUM VITAE
+# CURRICULUM VITAE
 ---
-PHILIPHINE CHEPTANUI
+## PHILIPHINE CHEPTANUI
 ---
 
 

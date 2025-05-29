@@ -5,4 +5,6 @@
 layout: home
 author_profile: true
 ---
-EDUCATION
+CURRICULUM VITAE
+PHILPHINE CHEPTANUI
+

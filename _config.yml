@@ -19,7 +19,7 @@ description: >- # Information Scientist, BSc | Computer Network| Cybersecurity |
 twitter_username: @koima254
 github_username: philiphineck
 minimal_mistakes_skin: neon
-search: false
+search: true
 
 # Build settings
 markdown: kramdown

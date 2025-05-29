@@ -6,5 +6,6 @@ layout: home
 author_profile: true
 ---
 CURRICULUM VITAE
+---
 PHILPHINE CHEPTANUI
 

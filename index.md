@@ -63,6 +63,8 @@ koimaphilipine@gmail.com &emsp;
  I developed interest in data handling, research and research reporting. Above all else, I gained skills on **Self Management**. 
 ---
 
-## COMMUNITY SOCIAL RESPONSIBILITY (CSR)
-
+## My Projects
+## My Projects
+- [Repo 1](https://github.com/username/repo1)
+- [Repo 2](https://github.com/username/repo2)
 * [Describe your CSR activities here.]

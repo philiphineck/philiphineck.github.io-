@@ -67,4 +67,4 @@ koimaphilipine@gmail.com &emsp;
 ## My Projects
 - [Repo 1](https://github.com/username/repo1)
 - [Repo 2](https://github.com/username/repo2)
-* [Describe your CSR activities here.]
+
